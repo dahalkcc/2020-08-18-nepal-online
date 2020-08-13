@@ -16,7 +16,7 @@ enddate: 2020-08-19        # machine-readable end date for the workshop in YYYY-
 instructor: ["Elnaz AmanzadehJajin", "Nick Wong", "Sourav Singh", "Aditya Bandla"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Kishor Dahal", "Subodh Khanal", "Roshan Subedi", "Rajesh Poudel"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["kishor.dahal@iaas.tu.edu.np","nick.wong@monash.edu", "subodh.khanal@pakc.tu.edu.np", "roshan.subedi@lac.tu.edu.np", "rajesh.poudel@iaas.tu.edu.np", "elibio449@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes:  https://pad.carpentries.org/2020-08-18-Nepal # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite: 115338598854          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
